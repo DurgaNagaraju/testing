@@ -1,0 +1,6 @@
+Q: Question 1 : who is the former prime minister of india?
+A: {'query': 'Question 1 : who is the former prime minister of india?', 'result': 'The text does not provide the name of the most recent former Prime Minister of India. It mentions several past Prime Ministers including Jawaharlal Nehru, Lal Bahadur Shastri, Indira Gandhi, Morarji Desai, Charan Singh, Rajiv Gandhi, Vishwanath Pratap Singh, Chandra Shekhar, P. V. Narasimha Rao, Atal Bihari Vajpayee, and Manmohan Singh. The current Prime Minister, as of the text, is Narendra Modi.'}
+Q: Question 2 : who is the current prime minister of india?
+A: {'query': 'Question 2 : who is the current prime minister of india?', 'result': 'The current Prime Minister of India is Narendra Modi.'}
+Q: 
+A: {'query': '', 'result': "You didn't ask a question. How can I assist you today?"}
